@@ -1,2 +1,2 @@
 # hackerranktest
-This repository is created for online test
+This repository is created for online test.
